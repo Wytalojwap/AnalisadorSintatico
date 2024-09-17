@@ -1,4 +1,4 @@
-# AnalisadorSintatico
+# Analisador Sintatico
 
 Problema em questão:
 
