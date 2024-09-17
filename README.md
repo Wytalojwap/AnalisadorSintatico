@@ -7,6 +7,8 @@ int var1, var2 = 3, vetor[10] = {0};
 
 Gramática utilizada:
 
+<img src="/Gramática/Imagens">
+
 Etapas para realizar a execução:
 
 2. Realize o Download do arquivo no repositório do github
